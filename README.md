@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Sergio</h1>
-<h3 align="center"><3 bruh</h3>
+<h3 align="center"><3</h3>
 
 - 🔭 Actualmente estoy trabajando en [**Sersa**](https://github.com/sergiom19/sersa-opensource)
 
